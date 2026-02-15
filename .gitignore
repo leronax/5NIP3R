@@ -1,0 +1,22 @@
+# Секреты и конфиги
+config.py
+*.json
+cookies/
+accounts.txt
+login/mafiles/
+*.maFile
+
+# Виртуальное окружение
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Логи и прогресс
+logs/
+checker_progress.json
+*.log
+
+# Файлы IDE
+.vscode/
+.idea/
